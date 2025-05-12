@@ -1,0 +1,2 @@
+C:/Users/Ghostline/Desktop/Work/Green_Cloud/green_cloud/android/app/.cxx/Debug/306m2m4s/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Ghostline/Desktop/Work/Green_Cloud/green_cloud/android/app/.cxx/Debug/306m2m4s/x86_64/CMakeFiles/rebuild_cache.dir

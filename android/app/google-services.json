@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "751514521651",
+    "firebase_url": "https://estacaesp32-default-rtdb.firebaseio.com",
+    "project_id": "estacaesp32",
+    "storage_bucket": "estacaesp32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751514521651:android:4ae188d2a0355fe0f2d346",
+        "android_client_info": {
+          "package_name": "com.example.green_cloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk-BzcskO1Mra8JIOjI--Vj7mbWM5rviE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751514521651:android:d0df3617744b00a8f2d346",
+        "android_client_info": {
+          "package_name": "com.example.my_first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk-BzcskO1Mra8JIOjI--Vj7mbWM5rviE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
